@@ -1,0 +1,6 @@
+$datos = json_decode($_post, true);
+$nombre = $datos["persona"];
+$tareas = $datos["tarea"];
+file_put_contents('datos/data.json', json_encode($tareas));
+
+miproyecto-2fad9

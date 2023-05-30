@@ -1,0 +1,53 @@
+{
+  "name": "Lista de tareas",
+  "short_name": "Tareas",
+  "description": "Pagina web para registrar tus tareas",
+  "scope": "./",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "rgb(1, 20, 71)",
+  "icons": [
+    {
+      "src": "./imagenPWA/icon-30x30.png",
+      "type": "image/png",
+      "sizes": "30x30"
+    },
+    {
+      "src": "./imagenPWA/icon-50x50.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "./imagenPWA/icon-80x80.png",
+      "type": "image/png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "./imagenPWA/icon-100x100.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "./imagenPWA/icon-200x200.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "./imagenPWA/icon-300x300.png",
+      "type": "image/png",
+      "sizes": "300x300"
+    },
+    {
+      "src": "./imagenPWA/icon-400x400.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "./imagenPWA/icon-500x500.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ]
+}

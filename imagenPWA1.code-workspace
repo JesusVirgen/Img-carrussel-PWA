@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "imagenPWA",
+			"path": "..\\jesuslt\\imagenPWA"
+		},
+		{
+			"name": "Jesus3",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Jesus3",
+		"liveServer.settings.port": 5501
+	}
+}
